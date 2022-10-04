@@ -1,0 +1,3 @@
+Project,URL,Primary Language,App,Cloud,Edge,Device,LOC,PythonTestFile,PythonMockFile,PythonMockRate,PythonTestCases,PythonTestLOC,JSTestFile,JSMockFile,JSMockRate,JSTestCases,JSTestLOC,JavaTestFile,JavaMockFile,JavaMockRate,JavaTestCases,JavaTestLOC_w/o,JavaTestLOC_with,PJJTotalCases,PJJTotalCaseLOC,MockFiles,Density,PJJTestFiles
+particle-cli,https://github.com/particle-iot/particle-cli,JavaScript,1,0,0,0,37045,0,0,0,0,0,71,5,0.07042253521,752,4333,0,0,0,0,0,0,752,4333,5,7.549503808,71
+zmNinja,https://github.com/pliablepixels/zmNinja,JavaScript,1,0,0,0,159875,1,0,0,1,71,0,0,0,0,0,0,0,0,0,0,0,1,71,0,2250.760563,1

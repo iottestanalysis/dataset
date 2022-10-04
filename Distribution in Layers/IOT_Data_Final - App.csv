@@ -1,0 +1,19 @@
+Project,URL,Primary Language,App,Cloud,Edge,Device,LOC,PythonTestFile,PythonMockFile,PythonMockRate,PythonTestCases,PythonTestLOC,JSTestFile,JSMockFile,JSMockRate,JSTestCases,JSTestLOC,JavaTestFile,JavaMockFile,JavaMockRate,JavaTestCases,JavaTestLOC_w/o,JavaTestLOC_with,PJJTotalCases,PJJTotalCaseLOC,MockFiles,Density,PJJTestFiles
+Adafruit_IO_Python,https://github.com/adafruit/Adafruit_IO_Python,Python,1,0,1,1,3330,4,0,0,46,401,0,0,0,0,0,0,0,0,0,0,0,46,401,0,7.304239401,4
+blynk-server,https://github.com/blynkkk/blynk-server,Java,1,1,0,0,60392,0,0,0,0,0,0,0,0,0,0,51,8,0.1568627451,175,2590,3409,175,2590,8,22.31737452,51
+domoticz,https://github.com/domoticz/domoticz,C,1,1,0,0,420045,2,0,0,7,15,1,1,1,1,121,0,0,0,0,0,0,8,136,1,3087.566176,3
+freedomotic,https://github.com/freedomotic/freedomotic,Java,1,1,0,0,92362,0,0,0,0,0,0,0,0,0,0,37,2,0.05405405405,124,1294,2443,124,1294,2,70.37712519,37
+Gladys,https://github.com/GladysAssistant/Gladys,JavaScript,1,1,0,0,167100,1,0,0,1,8,351,41,0.1168091168,1422,22949,0,0,0,0,0,0,1423,22957,41,6.278825631,352
+Grow-IoT,https://github.com/CommonGarden/Grow-IoT,JavaScript,1,1,0,0,33171,0,0,0,0,0,3,0,0,27,193,0,0,0,0,0,0,27,193,0,170.8704663,3
+home-assistant,https://github.com/home-assistant/home-assistant,Python,1,1,0,0,1761443,2199,748,0.3401546157,16428,414510,0,0,0,0,0,0,0,0,0,0,0,16428,414510,748,3.249458397,2199
+kapua,https://github.com/eclipse/kapua,Java,1,1,0,0,290587,0,0,0,0,0,0,0,0,0,0,379,111,0.2928759894,2902,25670,45542,2902,25670,111,10.32010129,379
+mcs-lite-app,https://github.com/MCS-Lite/mcs-lite-app,JavaScript,1,1,0,0,29022,0,0,0,0,0,21,0,0,68,760,0,0,0,0,0,0,68,760,0,37.18684211,21
+openhab-core,https://github.com/openhab/openhab-core,Java,1,1,0,0,180011,0,0,0,0,0,0,0,0,0,0,307,129,0.4201954397,2151,27452,27470,2151,27452,129,5.557300015,307
+particle-cli,https://github.com/particle-iot/particle-cli,JavaScript,1,0,0,0,37045,0,0,0,0,0,71,5,0.07042253521,752,4333,0,0,0,0,0,0,752,4333,5,7.549503808,71
+sitewhere,https://github.com/sitewhere/sitewhere,Java,1,1,0,0,40895,0,0,0,0,0,0,0,0,0,0,3,0,0,13,105,105,13,105,0,388.4761905,3
+smarthome,https://github.com/smarthomeNG/smarthome,Java,1,1,0,0,298497,0,0,0,0,0,9,0,0,111,845,341,145,0.4252199413,2126,26603,57000,2237,27448,145,9.875,350
+thingsboard,https://github.com/thingsboard/thingsboard,Java,1,1,0,0,396519,9,0,0,86,1362,0,0,0,0,0,188,48,0.2553191489,1149,21711,34457,1235,23073,48,16.18541152,197
+vor,https://github.com/futurice/vor,Java,1,1,0,1,25106,0,0,0,0,0,5,0,0,6,97,0,0,0,0,0,0,6,97,0,257.8247423,5
+zmNinja,https://github.com/pliablepixels/zmNinja,JavaScript,1,0,0,0,159875,1,0,0,1,71,0,0,0,0,0,0,0,0,0,0,0,1,71,0,2250.760563,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,62.50%,,
