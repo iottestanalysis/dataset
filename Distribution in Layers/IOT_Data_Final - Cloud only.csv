@@ -1,9 +1,0 @@
-Project,URL,Primary Language,App,Cloud,Edge,Device,LOC,PythonTestFile,PythonMockFile,PythonMockRate,PythonTestCases,PythonTestLOC,JSTestFile,JSMockFile,JSMockRate,JSTestCases,JSTestLOC,JavaTestFile,JavaMockFile,JavaMockRate,JavaTestCases,JavaTestLOC_w/o,JavaTestLOC_with,PJJTotalCases,PJJTotalCaseLOC,MockFiles,Density,PJJTestFiles
-cylon,https://github.com/hybridgroup/cylon,JavaScript,0,1,0,0,6075,0,0,0,0,0,16,1,0.0625,226,1106,0,0,0,0,0,0,226,1106,1,4.492766727,16
-devicehive-java-server,https://github.com/devicehive/devicehive-java-server,Java,0,1,0,0,32153,0,0,0,0,0,0,0,0,0,0,6,3,0.5,51,1030,1681,51,1030,3,30.21650485,6
-eclipse-smarthome,https://github.com/eclipse/smarthome,JavaScript,0,1,0,0,447392,10,0,0,116,1216,0,0,0,0,0,0,0,0,0,0,0,116,1216,0,366.9210526,10
-entity-controller,https://github.com/danobot/entity-controller,Python,0,1,0,0,13851,6,4,0.6666666667,24,452,0,0,0,0,0,0,0,0,0,0,0,24,452,4,29.64380531,6
-Grow.js,https://github.com/JakeHartnell/Grow.js,JavaScript,0,1,0,0,8109,0,0,0,0,0,3,0,0,33,222,0,0,0,0,0,0,33,222,0,35.52702703,3
-pytradfri,https://github.com/ggravlingen/pytradfri,Python,0,1,0,0,5446,15,1,0.06666666667,72,470,0,0,0,0,0,0,0,0,0,0,0,72,470,1,10.58723404,15
-tuyapi,https://github.com/codetheweb/tuyapi,JavaScript,0,1,0,0,33768,0,0,0,0,0,4,0,0,26,225,0,0,0,0,0,0,26,225,0,149.08,4
-yoda.js,https://github.com/yodaos-project/yoda.js,JavaScript,0,1,0,0,32571,0,0,0,0,0,102,39,0.3823529412,341,5987,0,0,0,0,0,0,341,5987,39,4.440287289,102
